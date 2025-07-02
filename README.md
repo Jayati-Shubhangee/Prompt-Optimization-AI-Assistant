@@ -1,9 +1,9 @@
-🧠 Prompt‑Optimizing AI Assistant
+#🧠 Prompt‑Optimizing AI Assistant
 Transform user prompts into high‑quality, optimized prompts using LLMs — with feedback, retrieval context, and evaluation built-in.
 
 
 
-🚀 Project Overview
+##🚀 Project Overview
 We’re building an AI-powered assistant that:
 
 1)Takes a user’s prompt
@@ -17,7 +17,7 @@ We’re building an AI-powered assistant that:
 5)Displays results in a clean web interface
 
 
-👥 Team Roles
+##👥 Team Roles
 *Backend & Prompt Logic: API, LLM pipeline, scoring, optimization loops
 
 *Frontend: UI to submit prompts, view variants, and vote
